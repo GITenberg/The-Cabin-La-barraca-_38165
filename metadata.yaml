@@ -1,0 +1,44 @@
+_repo: The-Cabin-La-barraca-_38165
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Underhill, John Garrett
+    birthdate: 1876
+    deathdate: 1946
+    gutenberg_agent_id: '39276'
+    url: http://www.gutenberg.org/2009/agents/39276
+  translators:
+  - agent_name: Mekota, Beatrice M.
+    gutenberg_agent_id: '39278'
+    url: http://www.gutenberg.org/2009/agents/39278
+  - agent_name: Snow, Francis Haffkine
+    gutenberg_agent_id: '39277'
+    url: http://www.gutenberg.org/2009/agents/39277
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2011-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Translations into English'
+- !lcc 'PQ'
+title: The Cabin [La barraca]
+url: http://www.gutenberg.org/ebooks/38165
